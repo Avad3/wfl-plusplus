@@ -1,0 +1,27 @@
+@font-face {
+    font-family: Nunito;
+    src: url(Nunito-SemiBold.ttf);
+}
+
+body {
+    background-color: rgb(30 41 59);
+    font-family: Nunito;
+    color: whitesmoke;
+}
+
+a {
+    color: gray;
+    text-decoration: none;
+    transition: all 0.5s ease;
+}
+
+a:hover {
+    font-size: larger;
+}
+
+div {
+    background-color: rgb(30, 35, 40);
+    border-radius: 2vw;
+    margin: 2vw;
+    padding: 2.5vw;
+}
