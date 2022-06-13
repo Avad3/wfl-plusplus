@@ -1,4 +1,4 @@
-# web-fusee-launcher++ (forked from <a href="/">web-fusee-launcher</a>)
+# web-fusee-launcher++ (forked from <a href="https://github.com/atlas44/web-fusee-launcher">web-fusee-launcher</a>)
 Fusee Launcher, in a browser!
 
 # Description
